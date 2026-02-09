@@ -1,5 +1,7 @@
 # fwall
 
+![preview](preview.png)
+
 FWall is a simple script for **Hyprland** users, allowing you to easily pick wallpapers and themes with keyboard shortcuts. Using **fuzzel** and **swww** to provide a seamless desktop experience.  
 > Default keybinding - SUPER + N
 
